@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>insert</title>
+</head>
+<body>
+<form action="store" method="post" enctype="multipart/form-data">
+    <label for="name">Name</label>
+    <input type="text" name="name" value="" id="name">
+    <br>
+    <input type="hidden" name="_token" value="{{csrf_token()}}">
+    <br>
+    <label for="email">Email</label>
+    <input type="text" name="email" value="" id="email">
+    <br>
+
+    <input type="radio" name="gender" value="male" >male
+
+    <input type="radio" name=gender"" value="female" >female
+    <br>
+    <input type="file" name="image">
+    <br>
+    <br>
+    <label for="submit">submit</label>
+    <input type="submit" name="submit" value="submit" id="submit">
+
+</form>
+
+</body>
+</html>

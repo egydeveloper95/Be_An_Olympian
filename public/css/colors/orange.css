@@ -1,0 +1,270 @@
+@charset "utf-8";
+
+a:hover {
+  color: #f63;
+}
+article p a {
+  color: #f63;
+}
+article>ul>i {
+  color: #f63;
+}
+blockquote {
+  border-left: 10px solid #f63;
+}
+h3 {
+  color: #f63;
+}
+.btn.btn-all:hover {
+  background-color: #f63;
+}
+.btn.btn-filters:hover {
+  color: #f63;
+}
+.btn.btn-filters.active {
+  border-color: #f63;
+  color: #f63;
+}
+.btn.btn-foot-news {
+  background-color: #f63;
+}
+.btn.btn-form {
+  border-color: #f63;
+  border-color: #f63;
+  color: #f63;
+}
+.btn.btn-pricing i {
+  background-color: #f63;
+}
+.btn.btn-sidebar,
+.btn.btn-more {
+  border: 2px solid #f63;
+  color: #f63;
+}
+.btn.btn-sidebar:hover,
+.btn.btn-more:hover {
+  background-color: #f63;
+}
+.btn.btn-sidebar:hover,
+.btn.btn-more:hover {
+  background-color: #f63;
+}
+.btn.btn-sidebar.alt:hover,
+.btn.btn-more.alt:hover {
+  color: #f63;
+}
+.btn.btn-slider {
+  background-color: #f63;
+}
+.btn.btn-video:hover,
+.btn.btn-testimonials:hover {
+  background-color: #f63;
+}
+.btn.btn-testimonials {
+  border: 2px solid #f63;
+  color: #f63;
+}
+.btn.btn-testimonials:hover {
+  background-color: #f63;
+}
+.classes.two-columns .classes-item span i {
+  color: #f63;
+}
+.classes-home ul li.active a h5,
+.classes-home ul li.active a p {
+  color: #f63;
+}
+.classes-home ul li a:hover h5 {
+  color: #f63;
+}
+.panel-group .panel-title>a:hover {
+  color: #f63;
+}
+.panel-group .panel-title>a:hover i {
+  color: #f63;
+}
+.panel-group .panel-title>a i {
+  color: #f63;
+}
+.contact address i {
+  color: #f63;
+}
+.error-404 h4{
+  color: #F63;
+}
+.events .color-orange{
+  color: #F63;
+}
+.highlights p a {
+  background-color: #f63;
+}
+.image-hover figure i {
+  border: 1px solid #f63;
+  color: #f63;
+}
+.navbar .navbar-nav .dropdown-menu>li.active>a,
+.navbar .navbar-nav .dropdown-menu>li>a:hover {
+  border-left-color: #f63;
+}
+.navbar .navbar-nav li a:hover,
+.navbar .navbar-nav li a:focus,
+.navbar .navbar-nav li a:active {
+  border-top-color: #f63;
+}
+.navbar .navbar-nav li.active a {
+  border-top-color: #f63;
+}
+.news-item:hover h2 {
+  color: #f63;
+}
+.news-one h6 a {
+  color: #f63;
+}
+.comments-item .reply-link {
+  color: #f63;
+}
+.pagination>li>a:hover,
+.pagination>li.active>a {
+  border-color: #f63;
+  color: #f63;
+}
+.partners .owl-theme .owl-controls .owl-buttons div:hover {
+  background-color: #f63;
+  border-color: #f63;
+}
+.pricing-item:hover li:first-child {
+  background-color: #f63;
+}
+.pricing-item li:first-child span {
+  color: #f63;
+}
+.pricing-item li:first-child strong {
+  color: #f63;
+}
+.programs-item:hover h4 {
+  color: #f63;
+}
+.programs-item:hover .icon {
+  color: #f63;
+}
+.programs-item .icon {
+  background-color: #f63;
+  border: 3px solid #f63;
+}
+.progress .progress-bar {
+  background-color: #f63;
+}
+.menu-search input[type="text"]:hover {
+  border-top: 3px solid #f63;
+}
+.menu-search input[type="text"]:focus:hover {
+  border-top: 3px solid #f63;
+}
+.menu-search input[type="text"]:focus {
+  border-top: 3px solid #f63;
+}
+.sidebar h5 {
+  border-left: 3px solid #f63;
+}
+.brouche .get-brouche {
+  color: #f63;
+}
+.categories i {
+  color: #f63;
+}
+.popular li a:hover h6 {
+  color: #f63;
+}
+.form-suscribe {
+  background-color: #f63;
+}
+.form-suscribe .form-control:-moz-placeholder,
+.form-suscribe .form-control:-ms-input-placeholder,
+.form-suscribe .form-control::-moz-placeholder,
+.form-suscribe .form-control::-webkit-input-placeholder {
+  color: #f63;
+}
+.star span {
+  color: #F63;
+}
+.single-item-info .social li a:hover{
+  color: #F63;
+}
+.single-item-info .btn.btn-mini{
+  border: 2px solid #F63;
+  color: #F63;
+}
+.single-item-info .btn.btn-mini:hover{
+  background-color: #F63;
+}
+.nav-tabs>li.active>a,
+.nav-tabs>li>a:focus,
+.nav-tabs>li>a:hover {
+  color: #f63;
+}
+.tags li a:hover {
+  background-color: #f63;
+  border: 1px solid #f63;
+}
+.trainers-home-item:hover figcaption {
+  background-color: #f63;
+}
+.trainers-home-item:hover figcaption i {
+  background-color: #f63;
+}
+.trainers-mini-item .social li a:hover {
+  color: #f63;
+}
+.trainers-item h3 a:hover {
+  color: #f63;
+}
+.trainers-item .social a:hover {
+  color: #f63;
+}
+.trainers-single .social li a:hover {
+  color: #f63;
+}
+.event-day{
+  background: #f63;
+}
+.img-wrap .onsale {
+  background: #f63;  
+}
+figure .icons .btn.btn-image {
+  background-color: #f63;
+  border: 2px solid #f63;
+}
+figure .icons-2 .btn.btn-image:hover {
+  border: 2px solid #f63;
+  color: #f63;
+}
+.filters .slider-range .slider.slider-horizontal .slider-track {
+  background: #f63;
+}
+.filters .slider-range .slider.slider-horizontal .slider-handle {  
+  border: 5px solid #f63;
+}
+.filters .slider-range .slider-selection{
+  background: #f63;
+}
+/*rgba*/
+.carousel-control:hover {
+  background-color: rgba(255,102,51,0.7);
+}
+.classes-home .tab-content figure figcaption:after {
+  border-color: transparent rgba(255,102,51,0.7) transparent transparent;
+}
+.popular li a figure:before {
+  background-color: rgba(255,102,51,0.7);
+}
+.flickr-feed li a:before {
+  background-color: rgba(255,102,51,0.7);
+}
+
+
+
+
+
+
+
+
