@@ -5,7 +5,7 @@ PHP Laravel Sporting Social Network Website That enables the players to communic
 
 ![Preview](Preview/Screenshot%20(78).jpg)
 
-![Preview](Preview/Screenshot%20(82).jpg)
+![Preview](Preview/Screenshot%20(82).png)
 
 ![Preview](Preview/Screenshot%20(90).jpg)
 
