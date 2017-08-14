@@ -1,7 +1,7 @@
 # Be_An_Olympian
 PHP Laravel Sporting Social Network Website That enables the players to communicate with coaches and clubs that can adopt and support their talent and to communicate with other players to share their talents .
 
-![Preview](Preview/Screenshot (76).png)
+![Preview](Preview/Screenshot (82).png)
 
 ![Preview](Preview/Screenshot (78).jpg)
 
